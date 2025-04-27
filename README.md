@@ -1,5 +1,7 @@
 ## To be updated 👋
 
+## This account is no longer maintained.
+
 <!--
 **sesamefish/sesamefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
